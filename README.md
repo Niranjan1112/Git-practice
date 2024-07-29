@@ -1,2 +1,2 @@
 # coursera
-practice repository for git
+practice repository for git - version 2
