@@ -5,3 +5,6 @@ uk
 ireland
 australia
 new zealand
+japan
+taiwan
+korea
